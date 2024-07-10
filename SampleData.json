@@ -1,0 +1,167 @@
+[
+    {
+      "ID": "TITLST-PROV1-001",
+      "PRODUCTNAME": "Titleist Pro V1 Golf Balls",
+      "GRAPHICNAME": "prov1.jpg",
+      "COSTPRICE": 39.99,
+      "MSRP": 49.99,
+      "QTYONHAND": 100,
+      "QTYONBACKORDER": 10,
+      "DESCRIPTION": "Titleist Pro V1 offers total performance and features new high-gradient core technology for golfers of all skill levels.",
+      "BRAND": "Titleist"
+    },
+    {
+      "ID": "TITLST-DRVR-002",
+      "PRODUCTNAME": "Titleist TS3 Driver",
+      "GRAPHICNAME": "ts3driver.jpg",
+      "COSTPRICE": 399.99,
+      "MSRP": 499.99,
+      "QTYONHAND": 50,
+      "QTYONBACKORDER": 5,
+      "DESCRIPTION": "The Titleist TS3 Driver delivers advanced speed and distance for every golfer, enhancing performance on the course.",
+      "BRAND": "Titleist"
+    },
+    {
+      "ID": "TITLST-IRN-003",
+      "PRODUCTNAME": "Titleist T100 Irons",
+      "GRAPHICNAME": "t100irons.jpg",
+      "COSTPRICE": 999.99,
+      "MSRP": 1299.99,
+      "QTYONHAND": 30,
+      "QTYONBACKORDER": 2,
+      "DESCRIPTION": "Titleist T100 Irons are designed for precise control and exceptional feel, making them a preferred choice for skilled golfers.",
+      "BRAND": "Titleist"
+    },
+    {
+      "ID": "TITLST-WDG-004",
+      "PRODUCTNAME": "Titleist Vokey SM8 Wedge",
+      "GRAPHICNAME": "sm8wedge.jpg",
+      "COSTPRICE": 159.99,
+      "MSRP": 199.99,
+      "QTYONHAND": 75,
+      "QTYONBACKORDER": 8,
+      "DESCRIPTION": "The Titleist Vokey SM8 Wedge offers superior spin and control, helping golfers improve their short game with ease.",
+      "BRAND": "Titleist"
+    },
+    {
+      "ID": "TITLST-PTTR-005",
+      "PRODUCTNAME": "Titleist Scotty Cameron Putter",
+      "GRAPHICNAME": "scottyputter.jpg",
+      "COSTPRICE": 349.99,
+      "MSRP": 399.99,
+      "QTYONHAND": 20,
+      "QTYONBACKORDER": 3,
+      "DESCRIPTION": "Scotty Cameron putters are trusted by top players for their precision and performance, making them a staple in golf bags worldwide.",
+      "BRAND": "Titleist"
+    },
+    {
+      "ID": "CALLWY-DRV-001",
+      "PRODUCTNAME": "Callaway Mavrik Driver",
+      "GRAPHICNAME": "mavrikdriver.jpg",
+      "COSTPRICE": 399.99,
+      "MSRP": 499.99,
+      "QTYONHAND": 60,
+      "QTYONBACKORDER": 6,
+      "DESCRIPTION": "Callaway Mavrik Driver features A.I. designed Flash Face for optimal speed, giving golfers an edge on the course with enhanced distance.",
+      "BRAND": "Callaway"
+    },
+    {
+      "ID": "CALLWY-IRN-002",
+      "PRODUCTNAME": "Callaway Apex 21 Irons",
+      "GRAPHICNAME": "apex21irons.jpg",
+      "COSTPRICE": 1299.99,
+      "MSRP": 1499.99,
+      "QTYONHAND": 25,
+      "QTYONBACKORDER": 4,
+      "DESCRIPTION": "The Apex 21 Irons from Callaway offer forged performance with exceptional feel, making them a top choice for serious golfers.",
+      "BRAND": "Callaway"
+    },
+    {
+      "ID": "CALLWY-WDG-003",
+      "PRODUCTNAME": "Callaway JAWS MD5 Wedge",
+      "GRAPHICNAME": "jawsmd5wedge.jpg",
+      "COSTPRICE": 149.99,
+      "MSRP": 189.99,
+      "QTYONHAND": 80,
+      "QTYONBACKORDER": 7,
+      "DESCRIPTION": "Callaway JAWS MD5 Wedge provides maximum spin and control around the greens, enhancing precision and performance for golfers.",
+      "BRAND": "Callaway"
+    },
+    {
+      "ID": "CALLWY-BLL-004",
+      "PRODUCTNAME": "Callaway Chrome Soft Golf Balls",
+      "GRAPHICNAME": "chromesoftballs.jpg",
+      "COSTPRICE": 34.99,
+      "MSRP": 44.99,
+      "QTYONHAND": 120,
+      "QTYONBACKORDER": 12,
+      "DESCRIPTION": "Chrome Soft Golf Balls are designed for fast ball speeds and soft feel, making them a popular choice among golfers of all levels.",
+      "BRAND": "Callaway"
+    },
+    {
+      "ID": "CALLWY-HYB-005",
+      "PRODUCTNAME": "Callaway Big Bertha Hybrid",
+      "GRAPHICNAME": "bigberthahybrid.jpg",
+      "COSTPRICE": 249.99,
+      "MSRP": 299.99,
+      "QTYONHAND": 40,
+      "QTYONBACKORDER": 5,
+      "DESCRIPTION": "The Big Bertha Hybrid offers outstanding performance and forgiveness, ideal for golfers seeking versatility and distance.",
+      "BRAND": "Callaway"
+    },
+    {
+      "ID": "TAYLRM-SIM2DRV-001",
+      "PRODUCTNAME": "TaylorMade SIM2 Driver",
+      "GRAPHICNAME": "sim2driver.jpg",
+      "COSTPRICE": 399.99,
+      "MSRP": 499.99,
+      "QTYONHAND": 55,
+      "QTYONBACKORDER": 4,
+      "DESCRIPTION": "The TaylorMade SIM2 Driver is engineered for maximum distance and accuracy, providing golfers with the ultimate driving performance.",
+      "BRAND": "TaylorMade"
+    },
+    {
+      "ID": "TAYLRM-P770IRN-002",
+      "PRODUCTNAME": "TaylorMade P770 Irons",
+      "GRAPHICNAME": "p770irons.jpg",
+      "COSTPRICE": 999.99,
+      "MSRP": 1299.99,
+      "QTYONHAND": 35,
+      "QTYONBACKORDER": 3,
+      "DESCRIPTION": "TaylorMade P770 Irons provide a compact players shape with forged performance, offering precision and feel for skilled golfers.",
+      "BRAND": "TaylorMade"
+    },
+    {
+      "ID": "TAYLRM-MILGRND3WDG-003",
+      "PRODUCTNAME": "TaylorMade Milled Grind 3 Wedge",
+      "GRAPHICNAME": "milledgrind3wedge.jpg",
+      "COSTPRICE": 159.99,
+      "MSRP": 199.99,
+      "QTYONHAND": 70,
+      "QTYONBACKORDER": 6,
+      "DESCRIPTION": "The Milled Grind 3 Wedge from TaylorMade offers precision-milled performance, enhancing golfers' short game with superior spin and control.",
+      "BRAND": "TaylorMade"
+    },
+    {
+      "ID": "TAYLRM-TP5BALLS-004",
+      "PRODUCTNAME": "TaylorMade TP5 Golf Balls",
+      "GRAPHICNAME": "tp5balls.jpg",
+      "COSTPRICE": 34.99,
+      "MSRP": 44.99,
+      "QTYONHAND": 110,
+      "QTYONBACKORDER": 9,
+      "DESCRIPTION": "TP5 Golf Balls are designed for tour-level performance and maximum distance, making them a top choice for serious golfers.",
+      "BRAND": "TaylorMade"
+    },
+    {
+      "ID": "TAYLRM-SPIDEREX-005",
+      "PRODUCTNAME": "TaylorMade Spider EX Putter",
+      "GRAPHICNAME": "spiderexputter.jpg",
+      "COSTPRICE": 299.99,
+      "MSRP": 349.99,
+      "QTYONHAND": 25,
+      "QTYONBACKORDER": 2,
+      "DESCRIPTION": "The Spider EX Putter offers stability and alignment for precise putting, trusted by golfers looking to improve their game on the greens.",
+      "BRAND": "TaylorMade"
+    }
+]
